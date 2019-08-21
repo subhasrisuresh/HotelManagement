@@ -1,0 +1,4 @@
+package Corridor;
+interface MainCorridor {
+
+}
